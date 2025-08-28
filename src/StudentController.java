@@ -1,7 +1,5 @@
 public class StudentController {
-
-    public void controller() {
-        //TO DO
+    public static void main(String[] args) {
+        System.out.println("Hello from StudentController");
     }
-
 }
