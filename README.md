@@ -1,4 +1,4 @@
-# lab-4C24-GRPXX 
+# lab-4C24-JGQ02
 
 Descripción breve del proyecto
 

@@ -1,5 +1,4 @@
 public class StudentController {
-
     public void controller() {
         // Método de control de estudiantes
         System.out.println("Controlando estudiantes...");
@@ -10,4 +9,7 @@ public class StudentController {
         System.out.println("Mostrando información del estudiante: " + name);
     }
 
+    public static void main(String[] args) {
+        System.out.println("Hello from StudentController");
+    }
 }
